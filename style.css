@@ -2,3 +2,14 @@
     background-color: rgb(0, 0, 0);
     color: rgb(219, 253, 246);
  }
+{
+   margin: 0;
+   padding: 0;
+}
+.cabeçalho {
+   background-color: #424E61;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
